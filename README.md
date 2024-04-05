@@ -21,7 +21,7 @@ Come on in to My cozy corner of the internet, where friendships are formed, stor
 
 1. **Download My App:**
    ```bash
-   git clone https://github.com/muhammadahmed-01/web-project-instagram-clone-backend.git
+   git clone https://github.com/pushan-alagiya/Celestial-Social-Nexus-Backend/
    ```
 
 2. **Install Dependencies:**
